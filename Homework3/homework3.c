@@ -5,7 +5,7 @@
 #include <sys/stat.h>   // For mkfifo
 #include <fcntl.h>      // For open
 #include <sys/wait.h>   // For wait
-#include <errno.h>      // For errno
+#include <errno.h>      
 #include <string.h>     // For strerror
 
 #define FIFO_NAME "/tmp/my_command_fifo"
