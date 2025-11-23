@@ -1,0 +1,7 @@
+--- Log R1 ---
+New Value in Cell 1: 80
+New Value in Cell 1: 60
+New Value in Cell 1: 67
+New Value in Cell 1: 86
+New Value in Cell 1: 29
+New Value in Cell 1: 99

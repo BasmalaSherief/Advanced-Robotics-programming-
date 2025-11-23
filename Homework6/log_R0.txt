@@ -1,0 +1,24 @@
+--- Log R0 ---
+New Value in Cell 0: 76
+New Value in Cell 0: 66
+New Value in Cell 0: 24
+New Value in Cell 0: 9
+New Value in Cell 0: 91
+New Value in Cell 0: 34
+New Value in Cell 0: 92
+New Value in Cell 0: 31
+New Value in Cell 0: 56
+New Value in Cell 0: 89
+New Value in Cell 0: 61
+New Value in Cell 0: 4
+New Value in Cell 0: 6
+New Value in Cell 0: 25
+New Value in Cell 0: 76
+New Value in Cell 0: 23
+New Value in Cell 0: 34
+New Value in Cell 0: 78
+New Value in Cell 0: 88
+New Value in Cell 0: 28
+New Value in Cell 0: 84
+New Value in Cell 0: 94
+New Value in Cell 0: 86
